@@ -1,0 +1,14 @@
+# Лабораторные работы по мобильной разработке
+
+Apk файлы ко всем лабораторным можно найти в папке apk files.
+
+# Запуск проектов
+
+  - Установить Node.js
+  -Установить Expo Cli: npm install --global expo-cli
+
+
+Для запуска:
+  - Набрать в консоли expo start
+  - Открыть симулятор Android
+  - На странице Expo (localhost:190002) выбрать "open Android Simulator"
